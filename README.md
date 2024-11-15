@@ -11,7 +11,7 @@ The simulator only includes the orange, red, and blue lines given the sheer numb
 Upon running `MetroSimulator`, a user is able to select their start and end stations through an interactive GUI before being provided with how many stops they must take to reach their destination.
 1. **Simply clone the repository:**
    
-   git clone https://github.com/dandob1/Sentiment_Analyzer.git
+   git clone https://github.com/dandob1/Metro_Simulator.git
 
    cd into the folder
 
